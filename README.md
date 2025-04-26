@@ -101,7 +101,7 @@ This creates `my_project.json`, containing all files, folders, and code content 
 
 **Version:** 1.0.0  
 **Author:** *Sagnik Bose*  
-**License:** MIT (or specify yours)
+**License:** MIT ([LICENSE](LICENSE))
 
 Happy coding!
 
